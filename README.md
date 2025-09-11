@@ -39,7 +39,7 @@ Tools Used:
 - Excel – Data preparation & transformation  
 
 Dashboard:  
-![RELIANCE_DASHBOARD](https://github.com/neerajkulkarni1/Reliance-Sales-Analysis/blob/main/Reliance%20Sales%20Report.pdf)  
+- [RELIANCE_DASHBOARD](https://github.com/neerajkulkarni1/Reliance-Sales-Analysis/blob/main/Reliance%20Sales%20Report.pdf)  
 
 Conclusion:  
 - Reliance achieved **$1.76M in revenue** and **$1.05M in profit** across **269K+ transactions**.  
